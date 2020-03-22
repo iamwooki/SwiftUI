@@ -63,4 +63,4 @@ HStack(alignment : .커스텀정렬이름){
     //content
 }
 ```
-- ZStack의 하위 뷰에 대한 커스텀 정렬은 ```HorizontalAlignmentGuide```와 ```VerticalAlginmentGuide``` 모두가 필요하다
+- ZStack의 하위 뷰에 대한 커스텀 정렬은 ```HorizontalAlignmentGuide```와 ```VerticalAlginmentGuide``` 모두가 필요함
