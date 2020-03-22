@@ -2,7 +2,7 @@
 - (implicitly aligned) 가장 기본적인 정렬 방법, 스택에 적용한 정렬이 하위 뷰에 적용 됨
 ```swift
 /*
-VStack, HStack
+VStack, HStack, ZStack
 default: .center
 */
 ex)
