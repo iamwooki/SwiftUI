@@ -10,7 +10,7 @@
         "isHybrid": false,
         "imageName": "tesla_model_3"
     }
-}
+]
 ```
 ```Swift
 //Car.swift
