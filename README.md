@@ -1,5 +1,5 @@
 # iOS
-ref: https://zeddios.tistory.com/162
+
 
 ### Swift
 - offical https://swift.org/
@@ -23,3 +23,8 @@ ref: https://zeddios.tistory.com/162
 - Apple Developer guide & sample codes : https://developer.apple.com/library/archive/navigation/
 - HIG : https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
 - 앱심사 : https://developer.apple.com/kr/app-store/review/guidelines/
+
+
+
+#### ref
+ZeddiOS : https://zeddios.tistory.com/162
