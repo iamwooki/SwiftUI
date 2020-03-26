@@ -2,7 +2,6 @@
 
 - Swift
 >> - offical https://swift.org/
-
 >> - korean https://jusung.gitbook.io/the-swift-language-guide/
 >> - swift-style https://github.com/raywenderlich/swift-style-guide#prose
 - Apple documents : https://developer.apple.com/documentation/
