@@ -67,10 +67,9 @@ struct MyImagePicker: UIViewControllerRepresentable{
 ```
 2. 코디네이터를 UIImagePickerView 인스턴스에 대한 델리게이트로 동작하도록 구현
 >> ```UINavigationControllerDelegate```, ```UIImagePickerControllerDelegate``` 프로토콜 준수
-
 >> (알림:이미지가 선택되거나 취소될 때) ```imagePickerControllerDidCancel```delegate, ```didFinishPickingMediaWithInfo```delegate 메소드 구현
 
-3.상태 프로퍼티 바인딩에 대한 로컬 복사본
+3. 상태 프로퍼티 바인딩에 대한 로컬 복사본
 ```Swift
 class Coordinator: NSObject, UINavigationControllerDelegate, UIImagePickerControllerDelegate{
         @Binding var imagePickerVisible: Bool
